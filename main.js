@@ -99,7 +99,6 @@ const videoCommand = require('./commands/video');
 // Global settings
 global.packname = settings.packname;
 global.author = settings.author;
-
 global.ttacc  = "@mellyfx";
 
 // Add this near the top of main.js with other global configurations
@@ -109,7 +108,7 @@ const channelInfo = {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
             newsletterJid: '120363161513685998@newsletter',
-            newsletterName: 'KnightBot MD',
+            newsletterName: 'Kagisos wingman',
             serverMessageId: -1
         }
     }
